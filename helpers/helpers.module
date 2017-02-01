@@ -1,0 +1,13 @@
+<?php
+require(drupal_get_path('module', 'helpers') . '/includes/EntityHelper.php');
+require(drupal_get_path('module', 'helpers') . '/includes/FieldHelper.php');
+require(drupal_get_path('module', 'helpers') . '/includes/ArrayHelper.php');
+require(drupal_get_path('module', 'helpers') . '/includes/BooleanFieldHelper.php');
+require(drupal_get_path('module', 'helpers') . '/includes/DateFieldHelper.php');
+require(drupal_get_path('module', 'helpers') . '/includes/ImageFieldHelper.php');
+require(drupal_get_path('module', 'helpers') . '/includes/TaxonomyTermHelper.php');
+require(drupal_get_path('module', 'helpers') . '/includes/TextFieldHelper.php');
+require(drupal_get_path('module', 'helpers') . '/includes/UrlFieldHelper.php');
+require(drupal_get_path('module', 'helpers') . '/includes/NodeDetailHelper.php');
+require(drupal_get_path('module', 'helpers') . '/includes/EntityDetail.php');
+require(drupal_get_path('module', 'helpers') . '/includes/NodeDetailFactory.php');
